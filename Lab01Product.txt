@@ -1,0 +1,3 @@
+000001, TI-84, Calculator, 100.0
+000002, iPhone 13, Phone, 830.0
+000003, North Face Jacket, Coat, 60.0
